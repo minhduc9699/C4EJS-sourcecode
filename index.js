@@ -12,5 +12,6 @@ function calc(op, number1, number2) { // parameter
     result = number1 / number2
   }
   return result
+  
 }
 // goi ham
